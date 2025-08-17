@@ -17,7 +17,7 @@ export default function ToastMsg() {
           <div className="text-white/90 text-sm font-light tracking-wide">
             Looking for a Software Engineer?{" "}
             <span className="text-white font-medium border-b border-white/20 hover:border-white/40 transition-colors duration-300">
-              Let's collaborate!
+              Let&apos;s collaborate!
             </span>
           </div>
         </div>
